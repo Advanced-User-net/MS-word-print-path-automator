@@ -1,6 +1,8 @@
 # MS-word-print-path-automator
 A VBA-powered global template and Inno Setup installer that automatically prints a clean, non-intrusive file path on Microsoft Word documents for physical document traceability
 
+! [Project Thumbnail](add file address in bottom auto.png)
+
 **📄 Word Print-Path Automator**
 
 A professional tool to solve document traceability in busy office environments.
@@ -39,6 +41,9 @@ Set tempTextBox = doc.Shapes.AddTextbox(msoTextOrientationHorizontal, 20, boxTop
 
 For a full breakdown of the code, the Inno Setup script logic, and a guide on how to customize the margins for your specific printer, visit my detailed blog post:
 👉 Read the Full Guide on [AdvancedUser.net](https://advanceduser.net/add-file-path-in-word/)
+
+**Screenshot**
+! [Screenshot of result](won.JPG)
 
 **👨‍💻 Developed By**
 
