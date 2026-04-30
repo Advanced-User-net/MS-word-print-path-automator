@@ -1,0 +1,5 @@
+By installing this tool, you agree:
+
+- This software is provided free for use.
+- You are NOT allowed to sell, redistribute, or claim ownership.
+Developed by Aashir Mehmood.

@@ -1,0 +1,5 @@
+Welcome to Print With Path Tool
+
+This tool automatically prints the file path at the bottom of your documents when using Ctrl+P.
+
+It is designed to improve file tracking and reduce dependency on manual search.
