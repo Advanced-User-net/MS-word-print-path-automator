@@ -49,6 +49,8 @@ For a full breakdown of the code, the Inno Setup script logic, and a guide on ho
 
 Aashir Mehmood
 Founder of [AdvancedUser.net](https://advanceduser.net)
+
+
 ***Update***
 Print With Path V 2.0 has been developed it has:
 - Improved stability
