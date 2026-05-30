@@ -49,3 +49,9 @@ For a full breakdown of the code, the Inno Setup script logic, and a guide on ho
 
 Aashir Mehmood
 Founder of [AdvancedUser.net](https://advanceduser.net)
+***Update***
+Print With Path V 2.0 has been developed it has:
+- Improved stability
+- No need to override Ctrl+P
+- Adds a pritner icon in print preview, you can use the new printer icon to add path of the document in top right corner
+- It adds path in top right instead of bottom due to different page sizes and scaling
